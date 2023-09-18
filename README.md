@@ -34,3 +34,6 @@ A arquitetura do projeto envolve três componentes principais:
 <li>Framework de desenvolvimento (React).</li>
 <li>Gráficos em tempo real (Chart.js).</li>
 <li>Integração com o backend para receber e enviar dados.</li>
+
+<h1>Vídeo explicativo</h1>
+<ul>https://youtu.be/2hZTe1v5Hjk?si=uHGqY8ffDWv9oLU7</ul>
