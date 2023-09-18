@@ -4,7 +4,7 @@ Visão geral completa do projeto de Postes Solares IoT, descrevendo a arquitetur
 <h1>Visão Geral</h1>
 O projeto de Postes Solares tem como objetivo melhorar a eficiência e a sustentabilidade da iluminação pública.
 
-<h1>Arquitetura Proposta e recursos utilizados</h1>
+<h1>Arquitetura Proposta</h1>
 A arquitetura do projeto envolve três componentes principais:
 
 <h2>IoT Devices</h2>
@@ -19,6 +19,22 @@ A arquitetura do projeto envolve três componentes principais:
 <li>Banco de Dados: Armazena dados de sensores, informações de carga da bateria e histórico de uso.</li>
 <br></br>
 <h2>Front-end</h2>
-<li>Interface Web: Permite aos usuários visualizar o status dos postes solares, dados de sensores e controlar remotamente as luzes.</li>
-<li>Painel de Controle: Apresenta gráficos e informações em tempo real.</li>
-<li>Opções de Controle: Botões para ligar/desligar luzes e ajustar configurações.</li>
+<li>Interface Web: Permite aos usuários visualizar o status das placas solares e dados de sensores</li>
+<li>Painel de informações: Apresenta gráficos e informações em tempo real.</li>
+
+<h1>Recursos utilizados</h1>
+<h2>IoT Devices</h2>
+<li>Painéis solares, controlador de carga e bateria.</li>
+<li>Módulo de comunicação IoT (Wi-Fi).</li>
+<li>Firmware para aquisição de dados e comunicação.</li>
+<br></br>
+<h2>Backend</h2>
+<li>Servidor de aplicação (Node.js, c++, Python, etc.).</li>
+<li>Banco de dados (SQL).</li>
+<li>Conexão à Internet.</li>
+<br></br>
+<h2>Front-end</h2>
+<li>Interface web (HTML, CSS, JavaScript).</li>
+<li>Framework de desenvolvimento (React).</li>
+<li>Gráficos em tempo real (Chart.js).</li>
+<li>Integração com o backend para receber e enviar dados.</li>
