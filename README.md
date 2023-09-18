@@ -37,3 +37,10 @@ A arquitetura do projeto envolve três componentes principais:
 
 <h1>Vídeo explicativo</h1>
 <ul>https://youtu.be/2hZTe1v5Hjk?si=uHGqY8ffDWv9oLU7</ul>
+
+<h1>Colaboradores</h1>
+<li>Debora da Silva Amaral RM 550412</li>
+<li>Levy Nascimento Junior RM 98655</li>
+<li>Lívia Namba Seraphim RM 97819</li>
+<li>Mateus Iago Sousa Conceição RM 550270</li>
+<li>Sarah Ribeiro da Silva RM 97747</li>
