@@ -42,5 +42,3 @@ A arquitetura do projeto envolve três componentes principais:
 <li>Debora da Silva Amaral RM 550412</li>
 <li>Levy Nascimento Junior RM 98655</li>
 <li>Lívia Namba Seraphim RM 97819</li>
-<li>Mateus Iago Sousa Conceição RM 550270</li>
-<li>Sarah Ribeiro da Silva RM 97747</li>
